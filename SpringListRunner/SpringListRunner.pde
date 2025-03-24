@@ -15,7 +15,7 @@ Keyboard commands:
   SPACE: Toggle moving on/off
   g: Toggle earth gravity on/off
 
-Mouse Commands:
+Mouse Commands:git 
   mousePressed: if the mouse is over an
     orb, remove it from the list.
 =================================== */
